@@ -1,0 +1,9 @@
+﻿Projeto IdentificaVazSAAE
+
+Este progra tem por finalidade examinar se um determinado usuário do SAAE, está com possível vazamento de acordo com o cálculo do desvio padrão dos consumos reais.
+Ele também faz uma simulação do valor a ser pago caso a conta possa ser corrigida pela autarquia.
+Este programa foi estruturado para funcionar em base de dados de SAAEs que usam o sistema de Contas e Consumo da Gestcom Informática LTDA, pois ele analisa o banco de dados dela.
+
+Estamos sujeitos a melhorias.
+
+contato: wsilveiradepaula@gmail.com

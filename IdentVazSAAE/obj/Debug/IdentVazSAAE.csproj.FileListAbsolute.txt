@@ -1,0 +1,9 @@
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\bin\Debug\IdentVazSAAE.exe
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\bin\Debug\IdentVazSAAE.pdb
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\obj\Debug\IdentVazSAAE.csprojResolveAssemblyReference.cache
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\obj\Debug\IdentificaVazSAAE.Apresentação.FormConfigBD.resources
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\obj\Debug\IdentificaVazSAAE.Apresentação.FormVerificaVazamento.resources
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\obj\Debug\IdentVazSAAE.Properties.Resources.resources
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\obj\Debug\IdentVazSAAE.csproj.GenerateResource.Cache
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\obj\Debug\IdentVazSAAE.exe
+C:\Users\recepcao\Documents\SharpDevelop Projects\IdentVazSAAE\IdentVazSAAE\obj\Debug\IdentVazSAAE.pdb
